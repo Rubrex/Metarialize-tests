@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.5f361e03.chunk.css",
-    "main.js": "/react-gh-pages/static/js/main.6bca02f0.chunk.js",
-    "main.js.map": "/react-gh-pages/static/js/main.6bca02f0.chunk.js.map",
-    "runtime-main.js": "/react-gh-pages/static/js/runtime-main.2175d405.js",
-    "runtime-main.js.map": "/react-gh-pages/static/js/runtime-main.2175d405.js.map",
-    "static/css/2.5a510433.chunk.css": "/react-gh-pages/static/css/2.5a510433.chunk.css",
-    "static/js/2.ea07f6ad.chunk.js": "/react-gh-pages/static/js/2.ea07f6ad.chunk.js",
-    "static/js/2.ea07f6ad.chunk.js.map": "/react-gh-pages/static/js/2.ea07f6ad.chunk.js.map",
-    "index.html": "/react-gh-pages/index.html",
-    "precache-manifest.9e016fe2e870d3bbcc39ff9959a0d7c6.js": "/react-gh-pages/precache-manifest.9e016fe2e870d3bbcc39ff9959a0d7c6.js",
-    "service-worker.js": "/react-gh-pages/service-worker.js",
-    "static/css/2.5a510433.chunk.css.map": "/react-gh-pages/static/css/2.5a510433.chunk.css.map",
-    "static/css/main.5f361e03.chunk.css.map": "/react-gh-pages/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.ea07f6ad.chunk.js.LICENSE.txt": "/react-gh-pages/static/js/2.ea07f6ad.chunk.js.LICENSE.txt"
+    "main.css": "/Metarialize-tests/static/css/main.5f361e03.chunk.css",
+    "main.js": "/Metarialize-tests/static/js/main.c41d0d14.chunk.js",
+    "main.js.map": "/Metarialize-tests/static/js/main.c41d0d14.chunk.js.map",
+    "runtime-main.js": "/Metarialize-tests/static/js/runtime-main.85cf7460.js",
+    "runtime-main.js.map": "/Metarialize-tests/static/js/runtime-main.85cf7460.js.map",
+    "static/css/2.5a510433.chunk.css": "/Metarialize-tests/static/css/2.5a510433.chunk.css",
+    "static/js/2.ea07f6ad.chunk.js": "/Metarialize-tests/static/js/2.ea07f6ad.chunk.js",
+    "static/js/2.ea07f6ad.chunk.js.map": "/Metarialize-tests/static/js/2.ea07f6ad.chunk.js.map",
+    "index.html": "/Metarialize-tests/index.html",
+    "precache-manifest.508c31745c51d8033449787826babc73.js": "/Metarialize-tests/precache-manifest.508c31745c51d8033449787826babc73.js",
+    "service-worker.js": "/Metarialize-tests/service-worker.js",
+    "static/css/2.5a510433.chunk.css.map": "/Metarialize-tests/static/css/2.5a510433.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/Metarialize-tests/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.ea07f6ad.chunk.js.LICENSE.txt": "/Metarialize-tests/static/js/2.ea07f6ad.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2175d405.js",
+    "static/js/runtime-main.85cf7460.js",
     "static/css/2.5a510433.chunk.css",
     "static/js/2.ea07f6ad.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.6bca02f0.chunk.js"
+    "static/js/main.c41d0d14.chunk.js"
   ]
 }
