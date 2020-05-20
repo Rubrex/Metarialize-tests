@@ -1,26 +1,17 @@
-import React, { Component } from "react";
+import React from "react";
 
-export default class metarialize extends Component {
-  constructor(props) {
-    super(props);
+const metarialize = () => {
+  return (
+    <div>
+      <a class="waves-effect waves-light btn">button</a>
+      <a class="waves-effect waves-light btn">
+        <i class="material-icons left">cloud</i>button
+      </a>
+      <a class="waves-effect waves-light btn">
+        <i class="material-icons right">cloud</i>button
+      </a>
+    </div>
+  );
+};
 
-    this.state = {};
-  }
-
-  render() {
-    return (
-      <div>
-        <a class="waves-effect waves-light btn" href="move">
-          button
-        </a>
-        <a class="waves-effect waves-light btn" href="move">
-          <i class="material-icons left">cloud</i>button
-        </a>
-        <a class="waves-effect waves-light btn" href="move">
-          <i class="material-icons right">cloud</i>button
-        </a>
-        <div id="move"></div>
-      </div>
-    );
-  }
-}
+export default metarialize;
