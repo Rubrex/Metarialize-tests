@@ -1,0 +1,10 @@
+div {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+button {
+  background-color: rgb(129, 46, 197) !important;
+}
